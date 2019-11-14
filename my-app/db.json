@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "firstName": "Vu",
+      "lastName": "Nguyen",
+      "gender": "Male",
+      "dateOfBirth": "2019-11-05",
+      "phone": "1234",
+      "role": "Fresher",
+      "salary": "1000000",
+      "skills": {
+        "MongoDB": true,
+        "ReactJS": true,
+        "Bootstrap": false,
+        "NodeJS": true,
+        "GraphQL": false
+      },
+      "id": 1
+    }
+  ]
+}

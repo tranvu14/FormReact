@@ -1,21 +1,50 @@
 {
   "users": [
     {
+      "firstName": "VU",
+      "lastName": "NGUYEN",
+      "gender": "Male",
+      "dateOfBirth": "2019-11-05T07:45:40.118Z",
+      "phone": "+84976872798",
+      "role": "Intern",
+      "salary": "1000000",
+      "skills": [
+        "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "Bootstrap"
+      ],
+      "id": 1
+    },
+    {
+      "firstName": "VU",
+      "lastName": "NGUYEN",
+      "gender": "Male",
+      "dateOfBirth": "2019-11-05T07:45:40.118Z",
+      "phone": "+84976872798",
+      "role": "Intern",
+      "salary": "1000000",
+      "skills": [
+        "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "Bootstrap"
+      ],
+      "id": 2
+    },
+    {
       "firstName": "Vu",
       "lastName": "Nguyen",
       "gender": "Male",
-      "dateOfBirth": "2019-11-05",
-      "phone": "1234",
-      "role": "Fresher",
+      "dateOfBirth": "2019-11-04T07:49:24.143Z",
+      "phone": "123456",
+      "role": "Intern",
       "salary": "1000000",
-      "skills": {
-        "MongoDB": true,
-        "ReactJS": true,
-        "Bootstrap": false,
-        "NodeJS": true,
-        "GraphQL": false
-      },
-      "id": 1
+      "skills": [
+        "ReactJS",
+        "NodeJS"
+      ],
+      "id": 3
     }
   ]
 }
